@@ -58,11 +58,9 @@ graph.nodes = d3.range(nb_nodes).map(function() {
 })
 
 graph.nodes.map(function(d, i) {
-
   graph.nodes.map(function(e, j) {
     if(Math.random()>.99 && i!=j)
       graph.links.push({"source": i, "target": j})
-
   })
 })
 

@@ -1,0 +1,2040 @@
+[
+  {
+    "sha": "14666baca07fce930223614f385cf024b68f2425",
+    "commit": {
+      "author": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-26T15:41:40Z"
+      },
+      "committer": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-26T15:41:40Z"
+      },
+      "message": "Corrected typo",
+      "tree": {
+        "sha": "6b049c51ce02b341b9472f911c091b57fedb8769",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/6b049c51ce02b341b9472f911c091b57fedb8769"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/14666baca07fce930223614f385cf024b68f2425",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/14666baca07fce930223614f385cf024b68f2425",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/14666baca07fce930223614f385cf024b68f2425",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/14666baca07fce930223614f385cf024b68f2425/comments",
+    "author": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "598e260213d7c698feb064c6ecf163c7ab5e8884",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/598e260213d7c698feb064c6ecf163c7ab5e8884",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/598e260213d7c698feb064c6ecf163c7ab5e8884"
+      }
+    ]
+  },
+  {
+    "sha": "598e260213d7c698feb064c6ecf163c7ab5e8884",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-09-26T06:10:39Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-09-26T06:10:39Z"
+      },
+      "message": "added contributor",
+      "tree": {
+        "sha": "e9684a16cd42dc5c3a92890ff0d32ec38c27920c",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/e9684a16cd42dc5c3a92890ff0d32ec38c27920c"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/598e260213d7c698feb064c6ecf163c7ab5e8884",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/598e260213d7c698feb064c6ecf163c7ab5e8884",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/598e260213d7c698feb064c6ecf163c7ab5e8884",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/598e260213d7c698feb064c6ecf163c7ab5e8884/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6bdf7fb85eb381097213de66580ef3af9077db44",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/6bdf7fb85eb381097213de66580ef3af9077db44",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/6bdf7fb85eb381097213de66580ef3af9077db44"
+      }
+    ]
+  },
+  {
+    "sha": "6bdf7fb85eb381097213de66580ef3af9077db44",
+    "commit": {
+      "author": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-25T20:25:46Z"
+      },
+      "committer": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-25T20:25:46Z"
+      },
+      "message": "Remove TODO from brushReset description",
+      "tree": {
+        "sha": "959a2832a3f2b32a8332a4cd4f99621eeb3a0b70",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/959a2832a3f2b32a8332a4cd4f99621eeb3a0b70"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/6bdf7fb85eb381097213de66580ef3af9077db44",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/6bdf7fb85eb381097213de66580ef3af9077db44",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/6bdf7fb85eb381097213de66580ef3af9077db44",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/6bdf7fb85eb381097213de66580ef3af9077db44/comments",
+    "author": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0014e74a2cc98e180e916b538fae79b32dc94457",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0014e74a2cc98e180e916b538fae79b32dc94457",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/0014e74a2cc98e180e916b538fae79b32dc94457"
+      }
+    ]
+  },
+  {
+    "sha": "0014e74a2cc98e180e916b538fae79b32dc94457",
+    "commit": {
+      "author": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-24T21:18:58Z"
+      },
+      "committer": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-24T21:18:58Z"
+      },
+      "message": "Prevent brushing from propagating to reordering\n\nPrior to d3 v3.2.2, the brushstart event would automatically call d3.event.stopPropagation(). When using d3 v3.2.2+ with a plot that's brushable and reorderable, the axes can be reordered while brushing. This change preserves the original behavior.",
+      "tree": {
+        "sha": "2acd2ae24bc9ded2ac8fa9a581e46e3a77bc9be4",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/2acd2ae24bc9ded2ac8fa9a581e46e3a77bc9be4"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/0014e74a2cc98e180e916b538fae79b32dc94457",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0014e74a2cc98e180e916b538fae79b32dc94457",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/0014e74a2cc98e180e916b538fae79b32dc94457",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0014e74a2cc98e180e916b538fae79b32dc94457/comments",
+    "author": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "65e2589931a51302eb76397e75f33ea25b0ecc5e",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/65e2589931a51302eb76397e75f33ea25b0ecc5e",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/65e2589931a51302eb76397e75f33ea25b0ecc5e"
+      }
+    ]
+  },
+  {
+    "sha": "65e2589931a51302eb76397e75f33ea25b0ecc5e",
+    "commit": {
+      "author": {
+        "name": "Kai",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-09-24T19:18:31Z"
+      },
+      "committer": {
+        "name": "Kai",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-09-24T19:18:31Z"
+      },
+      "message": "Merge pull request #27 from seanparmelee/master\n\nimplemented brushReset",
+      "tree": {
+        "sha": "4869605e11b3afd7f6076b9f8084d27be4635348",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/4869605e11b3afd7f6076b9f8084d27be4635348"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/65e2589931a51302eb76397e75f33ea25b0ecc5e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/65e2589931a51302eb76397e75f33ea25b0ecc5e",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/65e2589931a51302eb76397e75f33ea25b0ecc5e",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/65e2589931a51302eb76397e75f33ea25b0ecc5e/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d"
+      },
+      {
+        "sha": "b0414772d489186186c2e51b0e031ad741a0b56c",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b0414772d489186186c2e51b0e031ad741a0b56c",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/b0414772d489186186c2e51b0e031ad741a0b56c"
+      }
+    ]
+  },
+  {
+    "sha": "b0414772d489186186c2e51b0e031ad741a0b56c",
+    "commit": {
+      "author": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-24T16:40:24Z"
+      },
+      "committer": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-09-24T16:44:38Z"
+      },
+      "message": "implemented brushReset",
+      "tree": {
+        "sha": "4869605e11b3afd7f6076b9f8084d27be4635348",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/4869605e11b3afd7f6076b9f8084d27be4635348"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/b0414772d489186186c2e51b0e031ad741a0b56c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b0414772d489186186c2e51b0e031ad741a0b56c",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/b0414772d489186186c2e51b0e031ad741a0b56c",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b0414772d489186186c2e51b0e031ad741a0b56c/comments",
+    "author": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d"
+      }
+    ]
+  },
+  {
+    "sha": "61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-31T09:32:04Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-31T09:32:04Z"
+      },
+      "message": "hover highlighting",
+      "tree": {
+        "sha": "c6ea300e668d578c62b058a1f2115be13edd26a3",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/c6ea300e668d578c62b058a1f2115be13edd26a3"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/61392672d0bea44d09572cd4f8d5f5a1a47e1d8d/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "35aa14a08556090353e75378ff0e017ee2058dd3",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/35aa14a08556090353e75378ff0e017ee2058dd3",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/35aa14a08556090353e75378ff0e017ee2058dd3"
+      }
+    ]
+  },
+  {
+    "sha": "35aa14a08556090353e75378ff0e017ee2058dd3",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-31T09:15:13Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-31T09:15:13Z"
+      },
+      "message": "superformula example",
+      "tree": {
+        "sha": "27bef8ab222e0364daec676362dba0ece97a69bc",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/27bef8ab222e0364daec676362dba0ece97a69bc"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/35aa14a08556090353e75378ff0e017ee2058dd3",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/35aa14a08556090353e75378ff0e017ee2058dd3",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/35aa14a08556090353e75378ff0e017ee2058dd3",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/35aa14a08556090353e75378ff0e017ee2058dd3/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1b1d297a7a3538f7943aa44e5bbb96f74400f80b"
+      }
+    ]
+  },
+  {
+    "sha": "1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-28T01:08:42Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-28T01:08:42Z"
+      },
+      "message": "build d3.parcoords.js",
+      "tree": {
+        "sha": "2a0724d33cee50afb2fb607a63e5c0e9d7d07be2",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/2a0724d33cee50afb2fb607a63e5c0e9d7d07be2"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1b1d297a7a3538f7943aa44e5bbb96f74400f80b",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b1d297a7a3538f7943aa44e5bbb96f74400f80b/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e86883f2419993cd6052c530b01ecfe8907acd1c",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/e86883f2419993cd6052c530b01ecfe8907acd1c",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/e86883f2419993cd6052c530b01ecfe8907acd1c"
+      }
+    ]
+  },
+  {
+    "sha": "e86883f2419993cd6052c530b01ecfe8907acd1c",
+    "commit": {
+      "author": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-08-27T19:20:53Z"
+      },
+      "committer": {
+        "name": "Sean Parmelee",
+        "email": "seanyp@gmail.com",
+        "date": "2013-08-27T19:20:53Z"
+      },
+      "message": "Improved renderQueue performance\n\ndoFrame() needs to return true to stop the d3.timer. Also, a new timer was created on each call to doFrame() which slows the animation down as it processes the queue.",
+      "tree": {
+        "sha": "d067a2eb3960e3b70dce01c019bb84fc6b5ed595",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/d067a2eb3960e3b70dce01c019bb84fc6b5ed595"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/e86883f2419993cd6052c530b01ecfe8907acd1c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/e86883f2419993cd6052c530b01ecfe8907acd1c",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/e86883f2419993cd6052c530b01ecfe8907acd1c",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/e86883f2419993cd6052c530b01ecfe8907acd1c/comments",
+    "author": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "seanparmelee",
+      "id": 1933330,
+      "avatar_url": "https://gravatar.com/avatar/582351af8bd4cedaea12778b33dbaade?d=https%3A%2F%2Fidenticons.github.com%2Ffd166f69f261a79b1fbbedf54e4d33f8.png&r=x",
+      "gravatar_id": "582351af8bd4cedaea12778b33dbaade",
+      "url": "https://api.github.com/users/seanparmelee",
+      "html_url": "https://github.com/seanparmelee",
+      "followers_url": "https://api.github.com/users/seanparmelee/followers",
+      "following_url": "https://api.github.com/users/seanparmelee/following{/other_user}",
+      "gists_url": "https://api.github.com/users/seanparmelee/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/seanparmelee/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/seanparmelee/subscriptions",
+      "organizations_url": "https://api.github.com/users/seanparmelee/orgs",
+      "repos_url": "https://api.github.com/users/seanparmelee/repos",
+      "events_url": "https://api.github.com/users/seanparmelee/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/seanparmelee/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d5dc20111d3580ac08511c2fe4247755b4a7b051",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/d5dc20111d3580ac08511c2fe4247755b4a7b051",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/d5dc20111d3580ac08511c2fe4247755b4a7b051"
+      }
+    ]
+  },
+  {
+    "sha": "d5dc20111d3580ac08511c2fe4247755b4a7b051",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T09:42:18Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T09:42:18Z"
+      },
+      "message": "in the wild links",
+      "tree": {
+        "sha": "7fb745183e8452a62dad54a4364dbcfd1d9b6417",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/7fb745183e8452a62dad54a4364dbcfd1d9b6417"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/d5dc20111d3580ac08511c2fe4247755b4a7b051",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/d5dc20111d3580ac08511c2fe4247755b4a7b051",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/d5dc20111d3580ac08511c2fe4247755b4a7b051",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/d5dc20111d3580ac08511c2fe4247755b4a7b051/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "841e2d927ac78c066198a932bc3d6aba55347ebb",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/841e2d927ac78c066198a932bc3d6aba55347ebb",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/841e2d927ac78c066198a932bc3d6aba55347ebb"
+      }
+    ]
+  },
+  {
+    "sha": "841e2d927ac78c066198a932bc3d6aba55347ebb",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T09:14:31Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T09:14:31Z"
+      },
+      "message": "added date dimension type",
+      "tree": {
+        "sha": "8f0539bcccb626965d7d2751d478866ff34c424e",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/8f0539bcccb626965d7d2751d478866ff34c424e"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/841e2d927ac78c066198a932bc3d6aba55347ebb",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/841e2d927ac78c066198a932bc3d6aba55347ebb",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/841e2d927ac78c066198a932bc3d6aba55347ebb",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/841e2d927ac78c066198a932bc3d6aba55347ebb/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/2aca0a9a27ff58317a382662e92248f6ebd9d4fc"
+      }
+    ]
+  },
+  {
+    "sha": "2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T02:31:53Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T02:31:53Z"
+      },
+      "message": "example",
+      "tree": {
+        "sha": "59294d982b6f0fb6d52aeb083b8c78812b0a3d2e",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/59294d982b6f0fb6d52aeb083b8c78812b0a3d2e"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/2aca0a9a27ff58317a382662e92248f6ebd9d4fc",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/2aca0a9a27ff58317a382662e92248f6ebd9d4fc/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14"
+      }
+    ]
+  },
+  {
+    "sha": "7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T02:31:10Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-21T02:31:10Z"
+      },
+      "message": "override dimension titles",
+      "tree": {
+        "sha": "eb6b5a73f00edd8b1518b685b389c9989695f427",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/eb6b5a73f00edd8b1518b685b389c9989695f427"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/7d3b2704a9ea2c748dae7fee3c2f2d21df474e14/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1b2d42eb79682f90e4f616866e6688c413f2329d",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b2d42eb79682f90e4f616866e6688c413f2329d",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1b2d42eb79682f90e4f616866e6688c413f2329d"
+      }
+    ]
+  },
+  {
+    "sha": "1b2d42eb79682f90e4f616866e6688c413f2329d",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-14T21:11:07Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-08-14T21:11:07Z"
+      },
+      "message": "video",
+      "tree": {
+        "sha": "34dc3cd5d650d5225ba14d77936cc6da52a06404",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/34dc3cd5d650d5225ba14d77936cc6da52a06404"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/1b2d42eb79682f90e4f616866e6688c413f2329d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b2d42eb79682f90e4f616866e6688c413f2329d",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1b2d42eb79682f90e4f616866e6688c413f2329d",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1b2d42eb79682f90e4f616866e6688c413f2329d/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/31be2e35f80ad9db4e3bd31c197b5a16fb08846a"
+      }
+    ]
+  },
+  {
+    "sha": "31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-20T12:06:37Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-20T12:06:37Z"
+      },
+      "message": "remove id column",
+      "tree": {
+        "sha": "62591a5e1bf39fcf88ff28407f8ea68288f89c36",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/62591a5e1bf39fcf88ff28407f8ea68288f89c36"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/31be2e35f80ad9db4e3bd31c197b5a16fb08846a",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/31be2e35f80ad9db4e3bd31c197b5a16fb08846a/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "226aca5179fc395645a56071722b30a24a40ab81",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/226aca5179fc395645a56071722b30a24a40ab81",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/226aca5179fc395645a56071722b30a24a40ab81"
+      }
+    ]
+  },
+  {
+    "sha": "226aca5179fc395645a56071722b30a24a40ab81",
+    "commit": {
+      "author": {
+        "name": "Kai",
+        "email": "kai.salmon.chang@gmail.com",
+        "date": "2013-06-10T06:20:17Z"
+      },
+      "committer": {
+        "name": "Kai",
+        "email": "kai.salmon.chang@gmail.com",
+        "date": "2013-06-10T06:20:17Z"
+      },
+      "message": "Merge pull request #24 from syntagmatic/include\n\nMakefile merge",
+      "tree": {
+        "sha": "73568676a5a0073e8f2e40b291ddbde32cb3c413",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/73568676a5a0073e8f2e40b291ddbde32cb3c413"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/226aca5179fc395645a56071722b30a24a40ab81",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/226aca5179fc395645a56071722b30a24a40ab81",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/226aca5179fc395645a56071722b30a24a40ab81",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/226aca5179fc395645a56071722b30a24a40ab81/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "70ab59fc46f75276ee83b19defa25a75eb309262",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/70ab59fc46f75276ee83b19defa25a75eb309262",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/70ab59fc46f75276ee83b19defa25a75eb309262"
+      },
+      {
+        "sha": "b77e0a977d7c1624960ca6db839febec65c9c097",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b77e0a977d7c1624960ca6db839febec65c9c097",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/b77e0a977d7c1624960ca6db839febec65c9c097"
+      }
+    ]
+  },
+  {
+    "sha": "b77e0a977d7c1624960ca6db839febec65c9c097",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-10T06:19:50Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-10T06:19:50Z"
+      },
+      "message": "version bump",
+      "tree": {
+        "sha": "73568676a5a0073e8f2e40b291ddbde32cb3c413",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/73568676a5a0073e8f2e40b291ddbde32cb3c413"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/b77e0a977d7c1624960ca6db839febec65c9c097",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b77e0a977d7c1624960ca6db839febec65c9c097",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/b77e0a977d7c1624960ca6db839febec65c9c097",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/b77e0a977d7c1624960ca6db839febec65c9c097/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "95941d1a799bd1679684eaf615495c7fadf841a8",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/95941d1a799bd1679684eaf615495c7fadf841a8",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/95941d1a799bd1679684eaf615495c7fadf841a8"
+      }
+    ]
+  },
+  {
+    "sha": "95941d1a799bd1679684eaf615495c7fadf841a8",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-10T06:17:12Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-06-10T06:17:12Z"
+      },
+      "message": "move render queue to end",
+      "tree": {
+        "sha": "9f9d163ab40d265d14b9ec92988f53f807d21c5f",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/9f9d163ab40d265d14b9ec92988f53f807d21c5f"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/95941d1a799bd1679684eaf615495c7fadf841a8",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/95941d1a799bd1679684eaf615495c7fadf841a8",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/95941d1a799bd1679684eaf615495c7fadf841a8",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/95941d1a799bd1679684eaf615495c7fadf841a8/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/4a2b262cbf2a44a2acbd1a8456f646361e2c4648"
+      }
+    ]
+  },
+  {
+    "sha": "4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+    "commit": {
+      "author": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:34:52Z"
+      },
+      "committer": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:34:52Z"
+      },
+      "message": "dos",
+      "tree": {
+        "sha": "7fd4d7c2b03003dae7004fdfc55fd7e684877875",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/7fd4d7c2b03003dae7004fdfc55fd7e684877875"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/4a2b262cbf2a44a2acbd1a8456f646361e2c4648",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a2b262cbf2a44a2acbd1a8456f646361e2c4648/comments",
+    "author": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85"
+      }
+    ]
+  },
+  {
+    "sha": "8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+    "commit": {
+      "author": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:32:42Z"
+      },
+      "committer": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:32:42Z"
+      },
+      "message": "updating documentation",
+      "tree": {
+        "sha": "ee8c5710a61072569fc799f58288245b405289bc",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/ee8c5710a61072569fc799f58288245b405289bc"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/8ab4db2e7cce6131aa2e57e68e5bd159c593fa85/comments",
+    "author": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/671ad37c16b38b0ce4ff5fd89854021eb47522bc"
+      }
+    ]
+  },
+  {
+    "sha": "671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+    "commit": {
+      "author": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:27:07Z"
+      },
+      "committer": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-10T05:27:07Z"
+      },
+      "message": "making modules",
+      "tree": {
+        "sha": "370e3179a4fb2284eab53d2189ebc2e8029e2933",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/370e3179a4fb2284eab53d2189ebc2e8029e2933"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/671ad37c16b38b0ce4ff5fd89854021eb47522bc",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/671ad37c16b38b0ce4ff5fd89854021eb47522bc/comments",
+    "author": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "34daae1b029d75e8ce25385266e911c0f1c331cd",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/34daae1b029d75e8ce25385266e911c0f1c331cd",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/34daae1b029d75e8ce25385266e911c0f1c331cd"
+      }
+    ]
+  },
+  {
+    "sha": "34daae1b029d75e8ce25385266e911c0f1c331cd",
+    "commit": {
+      "author": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-09T23:51:08Z"
+      },
+      "committer": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-09T23:51:08Z"
+      },
+      "message": "adding makefile",
+      "tree": {
+        "sha": "8e7a21a14ccf7dd69968c142b2a7d29cfd7d122c",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/8e7a21a14ccf7dd69968c142b2a7d29cfd7d122c"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/34daae1b029d75e8ce25385266e911c0f1c331cd",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/34daae1b029d75e8ce25385266e911c0f1c331cd",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/34daae1b029d75e8ce25385266e911c0f1c331cd",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/34daae1b029d75e8ce25385266e911c0f1c331cd/comments",
+    "author": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/45c5aa731ec89ef79286c22e2a039cf06a97d6f7"
+      }
+    ]
+  },
+  {
+    "sha": "45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+    "commit": {
+      "author": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-09T20:12:04Z"
+      },
+      "committer": {
+        "name": "mbecica",
+        "email": "m.becica@gmail.com",
+        "date": "2013-06-09T20:12:04Z"
+      },
+      "message": "adding d3 as submodule",
+      "tree": {
+        "sha": "d2f345fc544c9c1b3bd9c272c5ac322655c958e4",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/d2f345fc544c9c1b3bd9c272c5ac322655c958e4"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/45c5aa731ec89ef79286c22e2a039cf06a97d6f7",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/45c5aa731ec89ef79286c22e2a039cf06a97d6f7/comments",
+    "author": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "marybecica",
+      "id": 640532,
+      "avatar_url": "https://gravatar.com/avatar/e52fbf7b5f1b2f3fd95eb3c04cc147e2?d=https%3A%2F%2Fidenticons.github.com%2Fd37ac09844d4b5449f3a9dfca0c602f3.png&r=x",
+      "gravatar_id": "e52fbf7b5f1b2f3fd95eb3c04cc147e2",
+      "url": "https://api.github.com/users/marybecica",
+      "html_url": "https://github.com/marybecica",
+      "followers_url": "https://api.github.com/users/marybecica/followers",
+      "following_url": "https://api.github.com/users/marybecica/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marybecica/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marybecica/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marybecica/subscriptions",
+      "organizations_url": "https://api.github.com/users/marybecica/orgs",
+      "repos_url": "https://api.github.com/users/marybecica/repos",
+      "events_url": "https://api.github.com/users/marybecica/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marybecica/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "70ab59fc46f75276ee83b19defa25a75eb309262",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/70ab59fc46f75276ee83b19defa25a75eb309262",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/70ab59fc46f75276ee83b19defa25a75eb309262"
+      }
+    ]
+  },
+  {
+    "sha": "70ab59fc46f75276ee83b19defa25a75eb309262",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-23T06:04:20Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-23T06:04:20Z"
+      },
+      "message": "exposed parcoords variable in examples",
+      "tree": {
+        "sha": "0bf8622e26670e8da78e4442cf59fb52a0396b72",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/0bf8622e26670e8da78e4442cf59fb52a0396b72"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/70ab59fc46f75276ee83b19defa25a75eb309262",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/70ab59fc46f75276ee83b19defa25a75eb309262",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/70ab59fc46f75276ee83b19defa25a75eb309262",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/70ab59fc46f75276ee83b19defa25a75eb309262/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0e04c9457f57102e58113429bb06f54a26bf7cf0",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0e04c9457f57102e58113429bb06f54a26bf7cf0",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/0e04c9457f57102e58113429bb06f54a26bf7cf0"
+      }
+    ]
+  },
+  {
+    "sha": "0e04c9457f57102e58113429bb06f54a26bf7cf0",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-23T05:18:57Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-23T05:18:57Z"
+      },
+      "message": "reddit example",
+      "tree": {
+        "sha": "d5e641deb6230381a3a9dbf175f7e1bab045a5ea",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/d5e641deb6230381a3a9dbf175f7e1bab045a5ea"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/0e04c9457f57102e58113429bb06f54a26bf7cf0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0e04c9457f57102e58113429bb06f54a26bf7cf0",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/0e04c9457f57102e58113429bb06f54a26bf7cf0",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/0e04c9457f57102e58113429bb06f54a26bf7cf0/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1644151fbb82e06c525c196887cebe7e92df08e9",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1644151fbb82e06c525c196887cebe7e92df08e9",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1644151fbb82e06c525c196887cebe7e92df08e9"
+      }
+    ]
+  },
+  {
+    "sha": "1644151fbb82e06c525c196887cebe7e92df08e9",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-22T14:18:21Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-04-22T14:18:21Z"
+      },
+      "message": "scatterplot spacing",
+      "tree": {
+        "sha": "bff232c460a4226f1b352e56d9f2964070b09ba3",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/bff232c460a4226f1b352e56d9f2964070b09ba3"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/1644151fbb82e06c525c196887cebe7e92df08e9",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1644151fbb82e06c525c196887cebe7e92df08e9",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/1644151fbb82e06c525c196887cebe7e92df08e9",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/1644151fbb82e06c525c196887cebe7e92df08e9/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/ad2ad161019bd3bed1d40eee8d770d1543f88d72"
+      }
+    ]
+  },
+  {
+    "sha": "ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+    "commit": {
+      "author": {
+        "name": "sparrow",
+        "email": "sparrow@sparrow.(none)",
+        "date": "2013-04-21T22:58:44Z"
+      },
+      "committer": {
+        "name": "sparrow",
+        "email": "sparrow@sparrow.(none)",
+        "date": "2013-04-21T22:58:44Z"
+      },
+      "message": "csv upload example",
+      "tree": {
+        "sha": "ec475e60b198de0a4cb6273d7707d38d3aacdb4a",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/ec475e60b198de0a4cb6273d7707d38d3aacdb4a"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/ad2ad161019bd3bed1d40eee8d770d1543f88d72",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/ad2ad161019bd3bed1d40eee8d770d1543f88d72/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/4a14b9c306c008b4c2de836bfcf0b858345f28b3"
+      }
+    ]
+  },
+  {
+    "sha": "4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+    "commit": {
+      "author": {
+        "name": "sparrow",
+        "email": "sparrow@sparrow.(none)",
+        "date": "2013-04-18T14:02:46Z"
+      },
+      "committer": {
+        "name": "sparrow",
+        "email": "sparrow@sparrow.(none)",
+        "date": "2013-04-18T14:02:46Z"
+      },
+      "message": "galactic example",
+      "tree": {
+        "sha": "40bc3d8cd659fac05ef1104b3cc8163ab933c0fd",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/40bc3d8cd659fac05ef1104b3cc8163ab933c0fd"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/4a14b9c306c008b4c2de836bfcf0b858345f28b3",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/4a14b9c306c008b4c2de836bfcf0b858345f28b3/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/749c63d4f6645c58dae8c65ceaba70fbc1374e6b"
+      }
+    ]
+  },
+  {
+    "sha": "749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+    "commit": {
+      "author": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-03-20T08:24:14Z"
+      },
+      "committer": {
+        "name": "syntagmatic",
+        "email": "kai.s.chang@gmail.com",
+        "date": "2013-03-20T08:24:14Z"
+      },
+      "message": "license fix",
+      "tree": {
+        "sha": "ec73bc0110b1328560e52ea5c323a6c9a62d3401",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/trees/ec73bc0110b1328560e52ea5c323a6c9a62d3401"
+      },
+      "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/git/commits/749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+    "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/749c63d4f6645c58dae8c65ceaba70fbc1374e6b",
+    "comments_url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/749c63d4f6645c58dae8c65ceaba70fbc1374e6b/comments",
+    "author": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "syntagmatic",
+      "id": 156229,
+      "avatar_url": "https://gravatar.com/avatar/0f16376294116d6319340752e30a1e94?d=https%3A%2F%2Fidenticons.github.com%2Fefc8564dea777990d75e3fe9366f930e.png&r=x",
+      "gravatar_id": "0f16376294116d6319340752e30a1e94",
+      "url": "https://api.github.com/users/syntagmatic",
+      "html_url": "https://github.com/syntagmatic",
+      "followers_url": "https://api.github.com/users/syntagmatic/followers",
+      "following_url": "https://api.github.com/users/syntagmatic/following{/other_user}",
+      "gists_url": "https://api.github.com/users/syntagmatic/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/syntagmatic/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/syntagmatic/subscriptions",
+      "organizations_url": "https://api.github.com/users/syntagmatic/orgs",
+      "repos_url": "https://api.github.com/users/syntagmatic/repos",
+      "events_url": "https://api.github.com/users/syntagmatic/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/syntagmatic/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "76a16963fa51ba558a19b420cecb6516f923069a",
+        "url": "https://api.github.com/repos/syntagmatic/parallel-coordinates/commits/76a16963fa51ba558a19b420cecb6516f923069a",
+        "html_url": "https://github.com/syntagmatic/parallel-coordinates/commit/76a16963fa51ba558a19b420cecb6516f923069a"
+      }
+    ]
+  }
+]

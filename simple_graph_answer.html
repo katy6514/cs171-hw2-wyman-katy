@@ -19,9 +19,22 @@
 
 </style>
 <body>
+
+
+    <div id="tooltip" class="hidden">
+          <img id="avatar" src="">
+      <div id = "tooltip_text">
+        <h3>Commit Info</h3>
+          <p>Sha: <span id="sha"></span></p>
+          <p>Author: <span id="author"></span></p>
+          <p>Message: <span id="message"></span></p>
+          <p>Date: <span id="date"></span></p>
+        </div>
+    </div>
   <!-- online version of D3 -->
 <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
   <!-- downloaded version for orking offline -->
+<link rel="stylesheet" type="text/css" href="h2.css"></link>
 <script src="../d3/d3.js"></script> 
 
   <form>
@@ -78,17 +91,7 @@ d3.json("commits_last50_syntagmatic.json", function(error, data){
 });
 
 
-
-var build_network = function(){
-
-  // graph.nodes = commitData.map(function(d,i) { 
-  //   return d;
-  // });
-
-  commitData.map(function(d){
-    graph.nodes.push(d);
-  });
-
+var get_links = function(){
   graph.nodes.map(function(d,i){
     d.parents.map(function(e,j){
       for (var k in graph.nodes){
@@ -98,10 +101,50 @@ var build_network = function(){
       }
     });
   });
+  //build_network();
+}
 
-  //console.log(graph.nodes);
+// var get_authors = function(){
+//   graph.nodes.map(function(d,i){
+//     for (var j in graph.nodes) {
+//      // graph.nodes.push({'author':})
+//      //console.log(d.commit.author);
+//      console.log(d.commit.author.name);
+//      //graph.nodes.push(d.commit.author.name);
+//     };
+//   });
+// }
+
+// var get_authors = function(){
+//   graph.nodes = d3.range(nb_nodes).map(function() {  
+//     return { cat : d.commit.author.name }; 
+//   });
+// }
+
+var committers =[];
+
+
+var build_network = function(){
+
+  commitData.map(function(d){
+    console.log(d.commit.author)
+    graph.nodes.push(d);
+
+  });
 
   nb_nodes = commitData.length, nb_cat = 10;
+
+  // get committers and make categories based off committer
+  // CANT FIGURE IT OUT
+
+  // commiters = 
+
+  // graph.nodes = d3.range(nb_nodes).map(function() {  
+  //   return { cat:5 }; 
+  // })
+
+  get_links();
+ // get_authors();
 
   // Generate the force layout
   var force = d3.layout.force()
@@ -241,22 +284,37 @@ var build_network = function(){
 
   var tooltip = d3.select('body')
         .append('div')
+        .attr("id","tooltip")
         .style('position','absolute')
         .style('visibility','hidden')
         .text('asdf');
 
   node.append("circle")
       .attr("r", 5)
-      .on('mouseover', function(d) {
-        tooltip.style('visibility','visible')
-        .text(function() {
-              return d.sha;
-            })
-      })
-      .on('mousemove', function() {
-        tooltip.style('top', (event.pageY-10)+'px').style('left',(event.pageX+10)+"px");})
-      .on('mouseout', function() {return tooltip.style('visibility','hidden');});
-
+         .on("mouseover", function(d) {
+          var xPosition = d.x;
+          var yPosition = d.y;
+          //Create the tooltip label
+          d3.select("#tooltip")
+            .style("left", xPosition + "px")
+            .style("top", yPosition + "px")
+            .select("#sha")
+              .text(d.sha);
+          d3.select("#author")
+              .text(d.commit.author.name)
+          d3.select("#message")
+              .text(d.commit.message)
+          d3.select("#avatar")
+              .attr("src", d.author.avatar_url)
+          d3.select("#date")
+              .text(d.commit.author.date.substr(0,10));
+          //Show the tooltip
+          d3.select("#tooltip").classed("hidden", false);
+        })
+        .on("mouseout", function() {
+          //Hide the tooltip
+          d3.select("#tooltip").classed("hidden", true);
+        });
 
   force_layout();
 };

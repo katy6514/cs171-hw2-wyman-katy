@@ -45,9 +45,41 @@ Commits Activity
 Code Frequency
 --------------
 
-	1. 
+	1. This chart is most likely intended for project managers or contributors to the project. It gives a visual representation of new lines of code added to the project, or when large amounts of code were removed. If a large amount of code suddenly disappears a contributor could look at this graph to determine when the code was removed.
+
+	2. This chart shows the number of lines added/deleted over time, binned into weeks: Additions in lines of code in green on the positive (top) end of the graph and deletions in red on the bottom. Code written to generate this probably used this API call: https://api.github.com/repos/syntagmatic/parallel-coordinates/commits{/sha} for each commit SHA. Each of these API calls has a time of commit as well as "additions" and "deletions," so once you have a list of all commits, you can iterate through to extract the time of each commit and the lines of code added or deleted.
+
+	3. Many commits in a short amount of time would register as big positive or negative peaks only if a large amount of lines of code were added or subtracted. If that were the case, I would bin the data into time units smaller than a week or possibly use a log scale.
 
 
+Punch Card
+----------
+
+	1. This chart is probably intended for a manager, and shows when during the day a team is making commits to a project repository with the data binned into hours. 
+
+	2. Again this chart probably gets its data from https://api.github.com/repos/syntagmatic/parallel-coordinates/commits and uses time of commit. Binning each commit into the hour it happened, and plotting a circle that scales in size with increasing number of commits, they spread the data into a calendar of weekly commits. Bigger circles means more commits, and you can see most commits (at least for my chosen repository) tend to occur in the evenings or wee hours of the morning.
+
+	3. Many commits in a short amount of time would create larger and larger circles. In that case, I might impose an upper limit on the size of any one circle per hour and perhaps color it differently than the others in the graph signifying that there's more information to explore. On click I might show an expanded hour binned into 10-minute segments and recreate the circle sizes in that heavily-committed hour into the 10-minute intervals.
+
+
+Pulse of a repository
+---------------------
+
+	1. This page looks like a dashboard of sorts for contributors. You can see the immediate status of the repository's requests and issues. You can see who has been making overall the most commits to the repository over a timescale of your choosing: A month, a week (the default), the past 3 days, and the past 24 hours
+
+	2. This page probably makes use of lots of different API calls. Definitely from the commit API call used in the other graphs for things like time of commit and committer name, but also from the pulls_url: https://api.github.com/repos/syntagmatic/parallel-coordinates/pulls{/number} and issues: https://api.github.com/repos/syntagmatic/parallel-coordinates/issues{/number} for status of requests and issues.
+
+	3. Many commits in a short amount of time would effect the bar chart the most, and it would cause the users who were doing most of the commits to have larger bars. I would code the bar chart so that it scales according to the highest bars, and if necessary, make it a log scale instead of linear.
+
+
+Calendar Map
+------------
+
+	1. This map might be meant for a project supervisor? Though it doesn't give much information more than a summary of when commits were made per day of the week over the last year. This could give you an idea of how productive a contributer was and when.
+
+	2. Data shown in this graph again could be recreated from the commit API call used in all other graphs, as well as the pulls and issues API calls. What you would need is the date of the contribution, and then you need to count up all contributions per day. The higher the number of contributions, the darker green the box is. 
+
+	3.Many commits in a short amount of time would show up as very green boxes. If so many commits happened in one day that the dark shade of green stopped being meaningful, I might extend the hue scale to more than 5 shades.
 
 
 

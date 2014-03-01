@@ -44,6 +44,7 @@
     <label><input type="radio" name="layout" value="radial"> Radial</label>  
     <label><input type="radio" name="layout" value="line"> Line</label>
     <label><input type="radio" name="layout" value="line_cat"> Line by Category</label>
+    <label><input type="radio" name="layout" value="line_time"> Line by Time</label>
   </form>
   <form>
   Color:
@@ -67,6 +68,7 @@ var commitData;
 var branchData;
 var nb_nodes;
 var padding = 20;
+var xScale;
 
 var width = 900,
     height = 700;
@@ -86,6 +88,11 @@ d3.json("commits_last50_syntagmatic.json", function(error, data){
      d3.json("branches_syntagmatic.json", function(error, data){
           if (error) return console.log("error!");
           branchData = data;
+            // reprocess the date
+            for (var i = 0; i < commitData.length;i++) {
+              newDate = commitData[i].commit.committer.date;
+              commitData[i].commit.committer.date = new Date(newDate);
+            }
           build_network();
      });
 });
@@ -135,7 +142,12 @@ var build_network = function(){
   nb_nodes = commitData.length, nb_cat = 10;
 
   // get committers and make categories based off committer
-  // CANT FIGURE IT OUT
+  // CANT FIGURE THIS OUT
+  // iterate through list of all unique users, assign an id# (1,2,3,4, etc...) to them, store in an array?
+  // everytime there's a new committer, they get a new id# and y scale of github network is 
+      // scaled by that number but I can't figure out how to work with this data.
+  // would also assign colors based off users.
+
 
   // commiters = 
 
@@ -183,13 +195,35 @@ var build_network = function(){
 
     force.stop();
 
-    var xScale = d3.scale.linear()
+    xScale = d3.scale.linear()
                     .domain([0, commitData.length])
                     .range([0, width]);
 
     graph.nodes.forEach(function(d, i) {
       d.y = height/2;
       d.x = xScale(i)+padding;
+    })
+
+    graph_update(500);
+  }
+
+  function time_layout(){
+    force.stop();
+
+    var maxDate = d3.max(graph.nodes, function(d){return d.commit.committer.date})
+    var minDate = d3.min(graph.nodes, function(d){return d.commit.committer.date}) 
+
+   // var maxDate = d3.time.format("%Y-%m-%d").parse("2013-8-26");
+    //var minDate = d3.time.format("%Y-%m-%d").parse("2012-10-10");
+
+    xScale = d3.scale.linear()
+                    .domain([minDate,maxDate])
+                    .range([0, width]);
+
+    graph.nodes.forEach(function(d, i) {
+      d.y = height/2;
+      //d.x = xScale(d.commit.committer.date)+padding;
+      d.x = xScale(d3.time.format("%Y-%m-%d").parse(d.commit.committer.date));
     })
 
     graph_update(500);
@@ -258,6 +292,7 @@ var build_network = function(){
   d3.select("input[value=\"random\"]").on("click", random_layout);
   d3.select("input[value=\"line\"]").on("click", line_layout);
   d3.select("input[value=\"line_cat\"]").on("click", line_cat_layout);
+  d3.select("input[value=\"line_time\"]").on("click", time_layout);
   d3.select("input[value=\"radial\"]").on("click", radial_layout);
 
   d3.select("input[value=\"nocolor\"]").on("click", function() {
